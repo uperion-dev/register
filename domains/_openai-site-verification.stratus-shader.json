@@ -3,6 +3,6 @@
         "username": "uperion-dev"
     },
     "records": {
-        "CNAME": "TXT"
+        "TXT": "openai-site-verification=5TYnTqtRxq2xRCAai8yX8r1h5eA-q6NJzZvVNHe6U4w"
     }
 }
